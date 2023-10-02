@@ -11,4 +11,4 @@ fs.readFile('contoh.txt', {
     encoding: 'utf8',
 }, callback)
 
-console.log('Muncul Pertama')
+console.log('Muncul Ini Pertama')
